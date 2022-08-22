@@ -14,7 +14,9 @@
 
 ### Screenshot
 
-<img src="./screenshots/FEM_QR_code_component_desktop.png" width=500>g
+
+<img src="./screenshots/FEM_QR_code_component_desktop.png" width=500>
+
 <img src="./screenshots/FEM_QR_code_component_mobile.png" width=200>
 
 
